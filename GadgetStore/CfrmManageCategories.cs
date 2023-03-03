@@ -124,21 +124,5 @@ namespace WindowsFormsApp1
             txtCategoryId.Clear();
             txtCategoryName.Clear();
         }
-
-        //Delete
-
-        private void CategoryGV_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-            //txtCategoryId.Text = CategoryGV.SelectedRows[0].Cells[0].Value.ToString();
-            //txtCategoryName.Text = CategoryGV.SelectedRows[0].Cells[1].Value.ToString();
-        }
-
-        private void btnShowInfo_Click(object sender, EventArgs e)
-        {
-        //    txtCategoryId.Text = CategoryGV.SelectedRows[0].Cells[0].Value.ToString();
-        //    txtCategoryName.Text = CategoryGV.SelectedRows[0].Cells[1].Value.ToString();
-        }
-
-
     }
 }
