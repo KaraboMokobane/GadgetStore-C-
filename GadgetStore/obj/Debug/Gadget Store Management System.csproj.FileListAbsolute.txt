@@ -1,0 +1,36 @@
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CfrmHome.resources
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CfrmManageCategories.resources
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CfrmManageCustomers.resources
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CfrmManageOrders.resources
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CfrmManageProducts.resources
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CfrmPhones.resources
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CfrmManageUser.resources
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CfrmSplash.resources
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CfrmViewOrders.resources
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gadget Store Management System.csproj.GenerateResource.Cache
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gadget Store Management System.csproj.CoreCompileInputs.cache
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KMDEEP\Documents\Code\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gadget Store Management System.csprojResolveAssemblyReference.cache
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\Gadget Store Management System.csprojResolveAssemblyReference.cache
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\WindowsFormsApp1.CfrmHome.resources
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\WindowsFormsApp1.CfrmManageCategories.resources
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\WindowsFormsApp1.CfrmManageCustomers.resources
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\WindowsFormsApp1.CfrmManageOrders.resources
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\WindowsFormsApp1.CfrmManageProducts.resources
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\WindowsFormsApp1.CfrmPhones.resources
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\WindowsFormsApp1.CfrmManageUser.resources
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\WindowsFormsApp1.CfrmSplash.resources
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\WindowsFormsApp1.CfrmViewOrders.resources
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\Gadget Store Management System.csproj.GenerateResource.Cache
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\Gadget Store Management System.csproj.CoreCompileInputs.cache
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KMDEEP\Documents\Code\Gadget Store Management System\Gadget Store Management System\obj\Debug\WindowsFormsApp1.pdb
