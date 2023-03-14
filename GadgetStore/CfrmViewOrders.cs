@@ -17,6 +17,7 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+        
         SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\KMDEEP\Documents\Phonedb.mdf;Integrated Security=True;Connect Timeout=30");
 
         void populateProducts()
@@ -48,15 +49,6 @@ namespace WindowsFormsApp1
             this.Hide();
         }
 
-        private void vOrderGV_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-        //    if (printPreviewDialog1.ShowDialog()==DialogResult.OK)
-        //    {
-        //        printDocument1.Print();
-        //    }
-            
-        }
-
         private void printDocument1_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)
         {
             e.Graphics.DrawString("Order Summary", new Font("Century", 25, FontStyle.Bold), Brushes.Red, new Point(230));
@@ -75,7 +67,6 @@ namespace WindowsFormsApp1
 
         private void btnPrint_Click(object sender, EventArgs e)
         {
-
             if (printPreviewDialog1.ShowDialog() == DialogResult.OK)
             {
                 printDocument1.Print();
@@ -84,7 +75,6 @@ namespace WindowsFormsApp1
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
-            
             Con.Open();
             string myquery = "delete from OrderTbl where OrderId = '" + lblName.Text + "';";
             SqlCommand cmd = new SqlCommand(myquery, Con);
