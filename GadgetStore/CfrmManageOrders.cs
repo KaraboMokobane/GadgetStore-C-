@@ -127,8 +127,7 @@ namespace WindowsFormsApp1
               catch
               {
 
-              }
-            
+              }          
         }
 
         int num = 0;
@@ -213,27 +212,9 @@ namespace WindowsFormsApp1
                     cmd.ExecuteNonQuery();
                     MessageBox.Show("Order Added Successfully");
                     Con.Close();
-                //populate();
-                try
-                {
-
-                }
-                catch
-                {
-                    
-                }
-
             }
         }
-
-
-
-        //To Be Deleted
-        private void oCustomerGV_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
+        
         private void btnViewOrders_Click(object sender, EventArgs e)
         {
             CfrmViewOrders view = new CfrmViewOrders();
@@ -246,15 +227,6 @@ namespace WindowsFormsApp1
             CfrmHome home = new CfrmHome();
             home.Show();
             this.Hide();
-        }
-
-        private void cmboCategory_SelectedValueChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void cmboCategory_SelectedIndexChanged(object sender, EventArgs e)
-        {
         }
     }
 }
