@@ -189,28 +189,6 @@ namespace WindowsFormsApp1
             txtProDesc.Text = ProductGV.SelectedRows[0].Cells[4].Value.ToString();
             comboBox1.SelectedValue = ProductGV.SelectedRows[0].Cells[5].Value.ToString();
         }
-
-        //OUt
-        private void ProductGV_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-            //    txtProID.Text = ProductGV.SelectedRows[0].Cells[0].Value.ToString();
-            //    txtProName.Text = ProductGV.SelectedRows[0].Cells[1].Value.ToString();
-            //    txtProQty.Text = ProductGV.SelectedRows[0].Cells[2].Value.ToString();
-            //    txtProPrice.Text = ProductGV.SelectedRows[0].Cells[3].Value.ToString();
-            //    txtProDesc.Text = ProductGV.SelectedRows[0].Cells[4].Value.ToString();
-            //    comboBox1.SelectedValue = ProductGV.SelectedRows[0].Cells[5].Value.ToString();
-
-        }
-        private void btnShowInfo_Click(object sender, EventArgs e)
-        {
-            //txtProID.Text = ProductGV.SelectedRows[0].Cells[0].Value.ToString();
-            //txtProName.Text = ProductGV.SelectedRows[0].Cells[1].Value.ToString();
-            //txtProQty.Text = ProductGV.SelectedRows[0].Cells[2].Value.ToString();
-            //txtProPrice.Text = ProductGV.SelectedRows[0].Cells[3].Value.ToString();
-            //txtProDesc.Text = ProductGV.SelectedRows[0].Cells[4].Value.ToString();
-            //comboBox1.SelectedValue = ProductGV.SelectedRows[0].Cells[5].Value.ToString();
-
-        }
         private void button1_Click(object sender, EventArgs e)
         {
             txtProID.Clear();
@@ -220,7 +198,5 @@ namespace WindowsFormsApp1
             txtProDesc.Clear();
             comboBox1.SelectedValue = "";
         }
-
-
     }
 }
