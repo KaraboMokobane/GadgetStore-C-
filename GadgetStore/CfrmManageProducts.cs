@@ -97,7 +97,6 @@ namespace WindowsFormsApp1
 
         private void btn_Add_Click(object sender, EventArgs e)
         {
-
             try
             {
                 Con.Open();
@@ -110,8 +109,7 @@ namespace WindowsFormsApp1
             }
             catch
             {
-
-
+            
             }
         }
 
@@ -135,7 +133,6 @@ namespace WindowsFormsApp1
 
         private void btnEdit_Click(object sender, EventArgs e)
         {
-            
             try
             {
                 Con.Open();
@@ -165,7 +162,6 @@ namespace WindowsFormsApp1
 
         private void button3_Click(object sender, EventArgs e)
         {
-
             CfrmHome home = new CfrmHome();
             home.Show();
             this.Hide();
