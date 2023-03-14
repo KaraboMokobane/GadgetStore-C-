@@ -144,26 +144,5 @@ namespace WindowsFormsApp1
             home.Show();
             this.Hide();
         }
-
-        private void btnShowInfo_Click(object sender, EventArgs e)
-        {
-
-            //txtCustomerId.Text = CustomersGV.SelectedRows[0].Cells[0].Value.ToString();
-            //txtCustomerName.Text = CustomersGV.SelectedRows[0].Cells[1].Value.ToString();
-            //txtCustomerPhone.Text = CustomersGV.SelectedRows[0].Cells[2].Value.ToString();
-        }
-
-        private void CustomersGV_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-            //txtCustomerId.Text = CustomersGV.SelectedRows[0].Cells[0].Value.ToString();
-            //txtCustomerName.Text = CustomersGV.SelectedRows[0].Cells[1].Value.ToString();
-            //txtCustomerPhone.Text = CustomersGV.SelectedRows[0].Cells[2].Value.ToString();
-            //Con.Open();
-            //SqlDataAdapter sda = new SqlDataAdapter("select Count(*) from OrderTbl  where CusId = " + txtCustomerId.Text + "", Con);
-            //DataTable dt = new DataTable();
-            //sda.Fill(dt);
-            //lblLable.Text = dt.Rows[0][0].ToString();
-            //Con.Close();
-        }
     }
 }
