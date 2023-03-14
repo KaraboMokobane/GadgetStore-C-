@@ -17,8 +17,8 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+        
         SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\KMDEEP\Documents\Phonedb.mdf;Integrated Security=True;Connect Timeout=30");
-
 
         private void chkShow_CheckedChanged(object sender, EventArgs e)
         {
