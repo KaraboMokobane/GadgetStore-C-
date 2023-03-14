@@ -91,16 +91,7 @@ namespace WindowsFormsApp1
                 populate();
             }
         }
-
-        private void UsersGV_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-            //txtUserName1.Text = UsersGV.SelectedRows[0].Cells[0].Value.ToString();
-            //txtFullName.Text = UsersGV.SelectedRows[0].Cells[1].Value.ToString();
-            //txtPassword1.Text = UsersGV.SelectedRows[0].Cells[2].Value.ToString();
-            //txtteleohone.Text = UsersGV.SelectedRows[0].Cells[3].Value.ToString();
-
-        }
-
+        
         private void btnEdit_Click(object sender, EventArgs e)
         {
             try
@@ -116,7 +107,6 @@ namespace WindowsFormsApp1
             catch
             {
 
-
             }
         }
 
@@ -127,15 +117,6 @@ namespace WindowsFormsApp1
             txtPassword1.Text = UsersGV.SelectedRows[0].Cells[2].Value.ToString();
             txtteleohone.Text = UsersGV.SelectedRows[0].Cells[3].Value.ToString();
         }
-
-        private void btnShowInfo_Click(object sender, EventArgs e)
-        {
-            //txtUserName1.Text = UsersGV.SelectedRows[0].Cells[0].Value.ToString();
-            //txtFullName.Text = UsersGV.SelectedRows[0].Cells[1].Value.ToString();
-            //txtPassword1.Text = UsersGV.SelectedRows[0].Cells[2].Value.ToString();
-            //txtteleohone.Text = UsersGV.SelectedRows[0].Cells[3].Value.ToString();
-        }
-
         private void label9_Click(object sender, EventArgs e)
         {
             txtUserName1.Clear();
